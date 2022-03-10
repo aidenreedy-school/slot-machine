@@ -41,7 +41,7 @@ let list: Image[] = []
 let val_3: Sprite = null
 let val2: Sprite = null
 let val1: Sprite = null
-game.splash("welcome to the magic slot machine! press a to spin")
+game.splash("welcome to the magic slot machine! press A to spin")
 val1 = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
